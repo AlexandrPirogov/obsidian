@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mongo/MongoDB `explain()` Learning Plan.md",
+                "file": "TrackList/2024/10/Day 09.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongo/MongoDB `explain()` Learning Plan.md",
+                "file": "TrackList/2024/10/Day 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mongo/MongoDB `explain()` Learning Plan.md",
+                "file": "TrackList/2024/10/Day 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mongo/MongoDB `explain()` Learning Plan.md"
+                "file": "TrackList/2024/10/Day 09.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "c4724ed254bf11ac",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "TrackList/2024/10/Day 09.md",
     "Mongo/MongoDB `explain()` Learning Plan.md",
     "Homelab/Prepare/Preparation.md",
