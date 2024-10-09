@@ -1,0 +1,2 @@
+[[MongoDB `explain()` Learning Plan]]
+

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b127ff9da0e7a7fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f332f9df5d2801ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7a3076fb258e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homelab/Prepare/Preparation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4724ed254bf11ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mongo/MongoDB `explain()` Learning Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eff4a233a55e609",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddf142665415e0fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bac1934808cb956",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53036ef518f72974",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf98b52675f8b07c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7365e910e4c62a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b018c7c442aa1be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1bfb44ac641da4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mongo/MongoDB `explain()` Learning Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c045d297044407b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mongo/MongoDB `explain()` Learning Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2ddfcd705ae120e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9db35c0f97e54c35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mongo/MongoDB `explain()` Learning Plan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4724ed254bf11ac",
+  "lastOpenFiles": [
+    "TrackList/2024/10/Day 09.md",
+    "Mongo/MongoDB `explain()` Learning Plan.md",
+    "Homelab/Prepare/Preparation.md",
+    "TrackList/2024/10",
+    "TrackList/2024",
+    "TODO.md",
+    "TrackList",
+    "Mongo/Mongo.md",
+    "Mongo/Installation.md",
+    "Mongo/Untitled",
+    "Homelab/Projects/Cryptotracker/Iterations/1.md",
+    "Crypto",
+    "Homelab/Prepare",
+    "Homelab/Projects/Cryptotracker/General.md",
+    "Homelab/Projects/Cryptotracker/Iterations",
+    "Mongo/Indexes.md",
+    "Mongo/CRUD Mongo tips.md",
+    "Homelab/IaC/Terraform.md",
+    "Untitled 1.md",
+    "Homelab/IaC",
+    "Homelab/Projects/Cryptotracker",
+    "Homelab/Projects",
+    "explainexplain.md"
+  ]
+}
