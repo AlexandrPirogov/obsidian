@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrackList/2024/10/Day 09.md",
+                "file": "TrackList/2024/10/Day 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrackList/2024/10/Day 09.md",
+                "file": "TrackList/2024/10/Day 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrackList/2024/10/Day 09.md",
+                "file": "TrackList/2024/10/Day 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrackList/2024/10/Day 09.md"
+                "file": "TrackList/2024/10/Day 11.md"
               }
             }
           }
@@ -161,29 +161,37 @@
   },
   "active": "c4724ed254bf11ac",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "TrackList/2024/10/Day 09.md",
-    "Mongo/MongoDB `explain()` Learning Plan.md",
+    "TrackList/2024/10/Day 10.md",
+    "TrackList/2024/10/Day 11.md",
+    "Mongo/Lecture notes/Explain/Explain().md",
+    "Mongo/Lecture notes/Explain/GenealRoadmap.png",
+    "Mongo/Lecture notes/Explain/RemovedNoise.png",
+    "Mongo/Lecture notes/Explain/ExplainAsIsland.png",
+    "Mongo/Lecture notes/Explain/Queryland_parts.png",
+    "Mongo/Lecture notes/Explain/Queryland_alg.png",
+    "Mongo/Lecture notes/Explain",
+    "Mongo/Lecture notes",
+    "Mongo/Indexes.md",
+    "Mongo/query optimizer.md",
+    "Mongo/Roadmap/Explain() learning plan.md",
     "Homelab/Prepare/Preparation.md",
+    "Mongo/Mongo.md",
+    "Mongo/Installation.md",
+    "Mongo/Roadmap",
+    "Untitled.canvas",
     "TrackList/2024/10",
     "TrackList/2024",
     "TODO.md",
     "TrackList",
-    "Mongo/Mongo.md",
-    "Mongo/Installation.md",
-    "Mongo/Untitled",
     "Homelab/Projects/Cryptotracker/Iterations/1.md",
     "Crypto",
     "Homelab/Prepare",
     "Homelab/Projects/Cryptotracker/General.md",
     "Homelab/Projects/Cryptotracker/Iterations",
-    "Mongo/Indexes.md",
     "Mongo/CRUD Mongo tips.md",
     "Homelab/IaC/Terraform.md",
     "Untitled 1.md",
     "Homelab/IaC",
-    "Homelab/Projects/Cryptotracker",
-    "Homelab/Projects",
     "explainexplain.md"
   ]
 }
